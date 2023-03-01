@@ -12,8 +12,10 @@ I am a novice web-developer & designer. I am currently studying at courses and p
 💡 Projects
 ---
 - [Personal website](https://tolssev.github.io/ "tolssev.github.io")
+- [Web-wiki bot]()
 - [Rubik's Cube]()
 - [Online chess]()
+- [Algorithmic task]()
 
 ☎️ Contacts
 ---
