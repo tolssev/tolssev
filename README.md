@@ -18,4 +18,4 @@ I am a novice web-developer & designer. I am currently studying at courses and p
 ☎️ Contacts
 ---
 <tolssev@yandex.ru> — Email\
-<https://t.me/tolssev> — Telegram\
+<https://t.me/tolssev> — Telegram
