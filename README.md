@@ -1,12 +1,14 @@
 👋 About me
 ---
-I am a novice programmer. I am currently studying at courses and practicing on my projects. I want to find a job soon.
+I am a novice web-developer & designer. I am currently studying at courses and practicing on my projects. I want to find a job soon.
 
 💪 Skills
 ---
 - HTML/CSS
 - JavaScript
-- PHP & SQL
+- PHP
+- SQL
+- Git
 
 💡 Projects
 ---
@@ -17,4 +19,4 @@ I am a novice programmer. I am currently studying at courses and practicing on m
 ☎️ Contacts
 ---
 <tolssev@yandex.ru> — Email\
-@tolssev — Telegram
+<t.me/tolssev> — Telegram\
