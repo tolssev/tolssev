@@ -1,6 +1,6 @@
 👋 About me
 ---
-I am a novice Web-developer & designer. I am currently studying at courses and practicing on my projects. I want to find a job soon.
+I am a novice Web-developer & designer. I am currently studying\ at courses and practicing on my projects. I want to find a job soon.
 
 💪 Skills
 ---
