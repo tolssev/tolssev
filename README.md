@@ -1,6 +1,6 @@
 👋 About me
 ---
-I am a novice web-developer & designer. I am currently studying at courses and practicing on my projects. I want to find a job soon.
+I am a novice Web-developer & designer. I am currently studying at courses and practicing on my projects. I want to find a job soon.
 
 💪 Skills
 ---
@@ -12,9 +12,9 @@ I am a novice web-developer & designer. I am currently studying at courses and p
 💡 Projects
 ---
 - [Personal website](https://tolssev.github.io/ "tolssev.github.io")
-- [Web-wiki bot]()
 - [Rubik's Cube]()
 - [Online chess]()
+- [Developers-Wiki bot]()
 - [Algorithmic task]()
 
 ☎️ Contacts
