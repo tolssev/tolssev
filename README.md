@@ -1,7 +1,7 @@
 👋 About me
 ---
-I am a novice Web-developer & designer. I am currently studying\
-at courses and practicing on my projects. I want to find a job soon.
+I am a novice Web-developer. I am currently studying and\
+practicing on my projects. I want to find a job soon.
 
 💪 Skills
 ---
@@ -14,7 +14,8 @@ at courses and practicing on my projects. I want to find a job soon.
 ---
 - [Personal website](https://tolssev.github.io/)
 - [Rubik's Cube](https://example.com/)
-- [Online chess](https://example.com/)
+- [Chess](https://example.com/)
+- [Snake game](https://example.com/)
 - [Developers-Wiki bot](https://example.com/)
 - [Algorithmic task](https://example.com/)
 
@@ -22,4 +23,4 @@ at courses and practicing on my projects. I want to find a job soon.
 ---
 <tolssev@yandex.ru> — Email\
 <https://t.me/tolssev> — Telegram\
-<https://kwork.ru/> - Freelace
+<https://kwork.ru/user/tolssev> - Freelace
