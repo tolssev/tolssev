@@ -1,7 +1,7 @@
 👋 About me
 ---
-I am a novice Web-developer. I am currently studying and\
-practicing on my projects. I want to find a job soon.
+I am a novice Web-developer and just a programmer. I am currently\
+studying and practicing on my projects. I want to find a job soon.
 
 💪 Skills
 ---
@@ -16,7 +16,7 @@ practicing on my projects. I want to find a job soon.
 - [Rubik's Cube](https://example.com/)
 - [Chess](https://example.com/)
 - [Snake game](https://example.com/)
-- [Developers-Wiki bot](https://example.com/)
+- [Wiki-bot for programmers](https://example.com/)
 - [Algorithmic task](https://example.com/)
 
 ☎️ Contacts
